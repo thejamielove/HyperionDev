@@ -1,2 +1,2 @@
 # HyperionDev
-Data Science Skills Bootcamp Tasks &amp; Projects
+Data Science Skills Bootcamp - Tasks, Grades &amp; Projects
